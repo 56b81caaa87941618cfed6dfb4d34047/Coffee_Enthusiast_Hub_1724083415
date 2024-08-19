@@ -6,7 +6,7 @@
 Vue.component("quoty_faq_accordion_component_1724083418", {
     template: `
     <section class="py-8 bg-white pl-4">
-        <h2 class="text-lg font-semibold mb-5">PLACEHOLDER_FAQ_TITLE</h2>
+        <h2 class="text-lg font-semibold mb-5">Brewing Up Answers: Coffee FAQs</h2>
         <!-- Accordion -->
         <div class="space-y-3">
             <!-- Accordion item -->
@@ -35,10 +35,10 @@ Vue.component("quoty_faq_accordion_component_1724083418", {
     data() {
         return {
             terms: [
-                { title: "ACCORDION_QUESTION_1", description: "ACCORDION_ANSWER_1", expanded: false },
-                { title: "ACCORDION_QUESTION_2", description: "ACCORDION_ANSWER_2", expanded: false },
-                { title: "ACCORDION_QUESTION_3", description: "ACCORDION_ANSWER_3", expanded: false },
-                { title: "ACCORDION_QUESTION_4", description: "ACCORDION_ANSWER_4", expanded: false },
+                { title: "What's the difference between Arabica and Robusta coffee?", description: "Arabica beans are known for their smooth, complex flavor with hints of sugar, fruit, and berries. Robusta beans have a stronger, harsher taste with a grainy overtone and peanutty aftertaste. Arabica is generally considered higher quality, while Robusta has more caffeine.", expanded: false },
+                { title: "How should I store coffee to keep it fresh?", description: "Store coffee in an airtight container in a cool, dark place. Avoid refrigerating or freezing as this can introduce moisture and affect flavor. For best results, buy whole beans and grind only what you need for each brew.", expanded: false },
+                { title: "What's the best brewing method for a rich flavor?", description: "While personal preference plays a role, many coffee enthusiasts prefer the French press or pour-over methods for a rich, full-bodied flavor. These methods allow for better control over brewing time and water temperature, resulting in a more flavorful cup.", expanded: false },
+                { title: "How does the roast level affect coffee taste?", description: "Roast levels greatly impact flavor. Light roasts retain more of the bean's original flavor and have higher acidity. Medium roasts offer a balanced flavor, aroma, and acidity. Dark roasts have a bolder, more intense flavor with less acidity and often a slight bitterness.", expanded: false },
             ],
         };
     },
