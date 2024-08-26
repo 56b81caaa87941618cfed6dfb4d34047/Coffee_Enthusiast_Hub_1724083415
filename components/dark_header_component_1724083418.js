@@ -4,7 +4,7 @@
 
 Vue.component("dark_header_component_1724083418", {
     template: `
-    <header id="header-component" class="z-30 bg-white">
+    <header id="header-component" style="min-height: 70px" class="z-30 bg-white">
         <div class="max-w-xl lg:max-w-[calc(50%+theme(maxWidth.xl))] mx-auto px-4 sm:px-6">
             <div class="flex items-center justify-between h-16 md:h-20">
                 <!-- Site branding -->
