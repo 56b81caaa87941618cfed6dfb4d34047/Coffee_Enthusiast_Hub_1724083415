@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of red do you envision for the background?\", \"option1\": \"Bright red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Should the red background be consistent throughout the entire landing page or just on specific sections?\", \"option1\": \"Entire landing page\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 291, \"output_token_count\": 82, \"time_taken\": \"0:00:01.662356\"}",
+        "timestamp": "28102024181200",
+        "message_id": "guest28102024181153"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm currently working on changing the background to red.",
         "timestamp": "28102024181154",
