@@ -17,7 +17,7 @@ Vue.component("fixed_left_side_hero_component_1724083418", {
                 <div class="grow flex flex-col justify-center" id="quote-content">
                     <div class="space-y-3" id="quote-container">
                         <div id="quote-title" class="font-caveat text-3xl text-blue-500">Discover the World of</div>
-                        <h1 id="company-name" class="h1 font-orbiter font-bold text-white">Exceptional Coffee</h1>
+                        <h1 id="company-name" class="h1 font-orbiter font-bold text-white">Extraordinary Coffee!</h1>
                         <time id="quote-date" class="block font-caveat text-xl text-slate-400">From Bean to Cup: Explore Our Aromatic Journey</time>
                     </div>
                 </div>
