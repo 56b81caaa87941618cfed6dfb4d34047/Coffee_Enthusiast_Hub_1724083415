@@ -4,5 +4,6 @@
     "project_description": "A landing page about coffee",
     "creation_time": "2024-08-19 16:03:35.593041",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "quoty"
+    "selected_starter_template_id": "quoty",
+    "frontend_theme_prompt": "The image features a vibrant color scheme dominated by shades of pink, purple, and black, creating a surreal and cosmic landscape scene with a large planet and moons in the background. The style is futuristic and fantastical, with a dreamy and ethereal atmosphere."
 }
